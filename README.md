@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img alt="Dominic Barker" src="readme/hero.svg" width="100%"/>
+<img alt="Dominic Barker" src="hero.svg" width="100%"/>
 
 **Dominic Bagnato Barker** &nbsp;·&nbsp; Software Engineering @ SJSU '27 &nbsp;·&nbsp; San Jose, CA
 
