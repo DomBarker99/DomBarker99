@@ -45,11 +45,10 @@ I'm studying software engineering at San Jose State University. I'm interested i
       <sub>x86 Assembly · GDB · Team project</sub>
     </td>
     <td width="50%" valign="top">
-      <sub>04 / SOFTWARE ENGINEERING</sub>
-      <h3><a href="https://github.com/DomBarker99/cmpe-131-semester-project">Daily Games</a></h3>
-      <p>A browser-game collection built for an SJSU software engineering course.</p>
-      <p><a href="https://cmpe-131-semester-project.pages.dev/">Play the deployed project ↗</a></p>
-      <sub>React · JavaScript · Cloudflare Pages · Team project</sub>
+      <sub>04 / TEACHING &amp; JAVA</sub>
+      <h3><a href="https://github.com/DomBarker99/cuesta-practice-projects">Java data-structures assignment</a></h3>
+      <p>A plane-seating assignment I designed for students I tutored at Cuesta College. Students implement it with a 2D array and a doubly linked list, using a provided library JAR, skeleton classes and a written specification.</p>
+      <sub>Java · Data structures · Javadoc · Tutoring</sub>
     </td>
   </tr>
 </table>
