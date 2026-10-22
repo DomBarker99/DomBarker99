@@ -46,9 +46,9 @@ I'm studying software engineering at San Jose State University. I'm interested i
     </td>
     <td width="50%" valign="top">
       <sub>04 / TEACHING &amp; JAVA</sub>
-      <h3><a href="https://github.com/DomBarker99/cuesta-practice-projects">Java data-structures assignment</a></h3>
-      <p>A plane-seating assignment I designed for students I tutored at Cuesta College. Students implement it with a 2D array and a doubly linked list, using a provided library JAR, skeleton classes and a written specification.</p>
-      <sub>Java · Data structures · Javadoc · Tutoring</sub>
+      <h3><a href="https://github.com/DomBarker99/java-dsa-practice">Java DSA tutoring set</a></h3>
+      <p>Data-structures practice projects I use when tutoring Java. In the first, students implement one plane-seating interface twice, with a 2D array and with a doubly linked list. Each project comes with starter code, specifications, reference solutions and JUnit tests.</p>
+      <sub>Java · Data structures · JUnit · Tutoring</sub>
     </td>
   </tr>
 </table>
